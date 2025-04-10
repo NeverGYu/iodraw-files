@@ -64,9 +64,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-9oXsfL4tJax6ndTSjQT-34" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="919.9999999999995" y="3350.2857142857138" as="geometry">
+          <mxGeometry x="639.9999999999995" y="3069.995714285714" as="geometry">
             <mxPoint x="71" y="-44" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-9oXsfL4tJax6ndTSjQT-35" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="890" y="3120" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
