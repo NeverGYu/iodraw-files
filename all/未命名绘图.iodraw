@@ -88,7 +88,7 @@
           <mxGeometry x="775" y="3570" width="215" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-9oXsfL4tJax6ndTSjQT-40" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;调用函数evictLeastNode&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;将访问次数最少的节点删除&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="3730" width="180" height="100" as="geometry" />
+          <mxGeometry x="1010" y="3730" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-9oXsfL4tJax6ndTSjQT-42" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;调用函数&lt;/font&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;insertNode&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;将新节点插入到链表中&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="645" y="3730" width="175" height="100" as="geometry" />
