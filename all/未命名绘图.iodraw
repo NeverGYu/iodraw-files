@@ -107,11 +107,11 @@
         <mxCell id="-9oXsfL4tJax6ndTSjQT-50" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" vertex="1" parent="1">
           <mxGeometry x="300" y="3203" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="-9oXsfL4tJax6ndTSjQT-51" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;设置该Key对应的Value&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="-9oXsfL4tJax6ndTSjQT-51" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;设置 Key对应的 Value&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="60" y="3180" width="240" height="57" as="geometry" />
         </mxCell>
         <mxCell id="-9oXsfL4tJax6ndTSjQT-52" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="60" y="3250" width="240" height="100" as="geometry" />
+          <mxGeometry x="60" y="3270" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
